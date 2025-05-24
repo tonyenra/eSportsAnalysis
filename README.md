@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 We present a repository with sensor data collected from 10 players in 22 matches in League of Legends.
 The sensor data collected include:
 1. Hand/head/chair movements.
@@ -22,3 +23,6 @@ If you find this dataset useful for your research, please cite the paper:
   year={2020}
 }
 ```
+=======
+# Modelado_Multicanal_de_la_Autopercepci-n_del_Rendimiento_en_ESports
+>>>>>>> e244f1adb13f5281f5551bec7b95714976f44951
