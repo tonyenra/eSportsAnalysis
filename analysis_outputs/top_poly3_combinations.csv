@@ -1,0 +1,101 @@
+,target
+heart_emg_ratio^3,0.4890014981470403
+heart_emg_ratio^2,0.47653473987032063
+heart_emg_ratio^2 emg_keyboard_ratio,0.47015744965793044
+heart_emg_ratio,0.4458630793830298
+heart_emg_ratio emg_keyboard_ratio,0.4303379475119735
+heart_emg_ratio emg_keyboard_ratio^2,0.4004688934159297
+imu_chair_seat_std emg_keyboard_ratio^2,-0.39345548161485944
+imu_chair_back_std emg_keyboard_ratio^2,-0.3898549010392152
+emg_std emg_keyboard_ratio^2,-0.38915595274565346
+emg_mean emg_keyboard_ratio^2,-0.3864042586862799
+spo2_std emg_keyboard_ratio^2,-0.3757059352769263
+imu_chair_seat_std emg_keyboard_ratio,-0.37314168372792617
+emg_std emg_keyboard_ratio,-0.3713127165879384
+imu_chair_back_std emg_keyboard_ratio,-0.37048261230370344
+keyboard_std emg_keyboard_ratio^2,-0.3662628491899558
+emg_mean emg_keyboard_ratio,-0.3661460174808595
+keyboard_mean emg_keyboard_ratio^2,-0.3661460173878144
+imu_left_hand_std emg_keyboard_ratio^2,-0.3646436595115102
+spo2_mean emg_keyboard_ratio^2,-0.3620422237587494
+imu_chair_back_std eye_tracker_std emg_keyboard_ratio,-0.35917193642721923
+emg_std eye_tracker_std emg_keyboard_ratio,-0.35693529508334
+imu_chair_back_std eye_tracker_mean emg_keyboard_ratio,-0.35637964774144204
+spo2_std emg_keyboard_ratio,-0.35619916208101193
+imu_right_hand_mean emg_keyboard_ratio^2,-0.3554244521872781
+imu_chair_seat_std,-0.3542966408587339
+gsr_std imu_chair_back_std^2,-0.3536314104846408
+emg_std,-0.35289475468241976
+emg_std eye_tracker_mean emg_keyboard_ratio,-0.3527214213160583
+imu_right_hand_std emg_keyboard_ratio^2,-0.3525880563354
+imu_chair_back_std,-0.35247214556799883
+imu_chair_seat_std eye_tracker_std emg_keyboard_ratio,-0.3519873703488798
+emg_mean eye_tracker_std emg_keyboard_ratio,-0.34944711099984405
+keyboard_std emg_keyboard_ratio,-0.34670631122099177
+emg_mean,-0.3466275316238638
+keyboard_mean emg_keyboard_ratio,-0.3466275315773337
+imu_chair_seat_std eye_tracker_mean emg_keyboard_ratio,-0.3460274080098917
+imu_left_hand_std emg_keyboard_ratio,-0.34588924849416836
+gsr_std imu_chair_back_std emg_keyboard_ratio,-0.34504965626391265
+emg_mean eye_tracker_mean emg_keyboard_ratio,-0.34476812632274567
+imu_chair_back_std eye_tracker_std,-0.34433927503274353
+imu_chair_back_std eye_tracker_mean,-0.34298173742969534
+gsr_std imu_chair_back_std spo2_std,-0.3429604635631191
+spo2_std eye_tracker_std emg_keyboard_ratio,-0.3422181329794087
+gsr_std imu_chair_back_std imu_chair_seat_std,-0.34185564095012066
+gsr_std imu_chair_back_std,-0.34169281807925866
+emg_mean gsr_std imu_chair_back_std,-0.3415752606476232
+emg_std eye_tracker_std,-0.3409956088642037
+gsr_std imu_chair_back_std eye_tracker_std,-0.3409147398769994
+spo2_mean emg_keyboard_ratio,-0.340557462106551
+emg_std gsr_std imu_chair_back_std,-0.33976872488392545
+spo2_std eye_tracker_mean emg_keyboard_ratio,-0.33958382259695535
+gsr_std imu_chair_back_std keyboard_std,-0.3382259853321837
+gsr_std imu_chair_back_std keyboard_mean,-0.3381940600427427
+spo2_std,-0.33804573004661864
+emg_std eye_tracker_mean,-0.3380321364551818
+gsr_std imu_chair_seat_std emg_keyboard_ratio,-0.33772758104636513
+gsr_std spo2_std emg_keyboard_ratio,-0.3371288310238721
+imu_chair_seat_std eye_tracker_std,-0.33711433335441593
+imu_left_hand_mean emg_keyboard_ratio^2,-0.33637817692354327
+gsr_std imu_chair_back_std spo2_mean,-0.3352106933084805
+gsr_std imu_chair_back_std imu_right_hand_std,-0.3349778206372099
+imu_right_hand_mean emg_keyboard_ratio,-0.33486374418162757
+gsr_std imu_chair_back_std imu_right_hand_mean,-0.3344913531462106
+gsr_std imu_chair_seat_std,-0.3339574183473333
+eye_tracker_std keyboard_std emg_keyboard_ratio,-0.3338091914846044
+emg_mean eye_tracker_std,-0.3337507103930641
+eye_tracker_std keyboard_mean emg_keyboard_ratio,-0.3337507103674119
+gsr_std spo2_std,-0.33336943638452066
+imu_left_hand_std eye_tracker_std emg_keyboard_ratio,-0.3330782043023626
+imu_right_hand_std emg_keyboard_ratio,-0.3330720424092097
+emg_mean gsr_std emg_keyboard_ratio,-0.33306327806930475
+imu_chair_seat_std eye_tracker_mean,-0.332927087864781
+imu_left_hand_std eye_tracker_mean emg_keyboard_ratio,-0.3327371517096235
+gsr_std imu_chair_back_std imu_left_hand_std,-0.3323256491717899
+imu_right_hand_std eye_tracker_mean emg_keyboard_ratio,-0.33204417136956965
+gsr_std spo2_std eye_tracker_std,-0.3313734601246577
+eye_tracker_mean keyboard_std emg_keyboard_ratio,-0.3307341115793576
+emg_mean eye_tracker_mean,-0.3306604413209144
+eye_tracker_mean keyboard_mean emg_keyboard_ratio,-0.33066044130244343
+imu_right_hand_std eye_tracker_std emg_keyboard_ratio,-0.3302089484464513
+imu_right_hand_mean eye_tracker_mean emg_keyboard_ratio,-0.3297946877069379
+gsr_std imu_right_hand_std emg_keyboard_ratio,-0.3295428785024308
+gsr_std imu_chair_seat_std eye_tracker_std,-0.32941384322499895
+emg_std gsr_std emg_keyboard_ratio,-0.3292201555701398
+gsr_std keyboard_mean emg_keyboard_ratio,-0.32902719943124037
+emg_mean gsr_std,-0.3290271992169256
+gsr_std spo2_std^2,-0.32878586195518644
+gsr_std keyboard_std emg_keyboard_ratio,-0.32876539693271534
+keyboard_std,-0.3286045881723193
+keyboard_mean,-0.32856705313474965
+gsr_std imu_chair_seat_std spo2_std,-0.3284156024779345
+imu_right_hand_mean eye_tracker_std emg_keyboard_ratio,-0.3283484716960962
+emg_mean gsr_std spo2_std,-0.32819709485253745
+emg_mean gsr_std eye_tracker_std,-0.3279231517282282
+spo2_mean eye_tracker_std emg_keyboard_ratio,-0.32758427932827777
+spo2_std eye_tracker_std,-0.3275486172240151
+emg_mean gsr_std imu_chair_seat_std,-0.3270818615790642
+emg_mean^2 gsr_std,-0.32701486523578066
+emg_std gsr_std spo2_std,-0.32689713791795405
+imu_left_hand_std,-0.32661847812618316

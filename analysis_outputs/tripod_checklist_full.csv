@@ -1,0 +1,6 @@
+,0
+Diseño estudio,Cohorte retrospectiva de partidas clasificadas
+Pre-procesamiento,"RollingFeatures, DiffFeatures, DropCorr, KNNImputer"
+Modelo final,XGB profundo + SelectKBest
+Validación,GroupKFold(5) y LOPO-CV
+Métricas,MAE 1.01 (CI95% 0.88-1.15)
